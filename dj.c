@@ -24,7 +24,7 @@ void checkEvenOdd(int N)
 int main() 
 { 
 	
-	int N = 10000; 
+	int N = 101; 
 
 	
 	checkEvenOdd(N); 
